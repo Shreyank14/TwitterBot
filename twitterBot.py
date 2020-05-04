@@ -50,8 +50,8 @@ class TwitterBot:
         print("Done Scrolling")
 
 
-username = "shreyankshetty3"
-password = "gonchushetty"
+username = ""
+password = ""
 
 twitter= TwitterBot(username,password)
 twitter.login()
